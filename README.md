@@ -8,4 +8,5 @@ I needed to have results clustering before it’s reintroduced in solr 9.0. Here
 3.	Add the clustering directory to the solr-8.x.x/contrib  directory
 4.	restart solr
 
+**Tested with java 11**
 
